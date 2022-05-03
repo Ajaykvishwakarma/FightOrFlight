@@ -1,0 +1,15 @@
+.flightContainer{
+    border:1px solid rgb(9, 255, 0);
+    width: 40%;
+    margin: auto;
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.flightBtn {
+    width: 40% !important;
+}
+#demo-helper-text-misaligned-no-helper {
+    width:90% !important;
+    height: 20px !important;
+}
